@@ -30,6 +30,14 @@ body{
 
 }
 
+.caja p{
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 235px;
+}
+
 .clearfix{
     float: none;
     clear: both;
